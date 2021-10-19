@@ -1,0 +1,45 @@
+.btn-green {
+	background-color: #044723;
+	padding: 10px 30px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Fjalla One', sans-serif;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.btn-green:hover {
+	background-color:#51776c ;
+	color: black 
+	margin-bottom: 10px;
+}
+
+.btn-white {
+	background-color: #044723;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Fjalla One', sans-serif;
+}
+
+.btn-white:hover {
+	background-color:#51776c ;
+	color: black 
+	margin-bottom: 10px;
+}
+
+.btn-white2 {
+	background-color: #044723;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Fjalla One', sans-serif;
+}
+
+.btn-white2:hover {
+	background-color:#51776c ;
+	color: black 
+	margin-bottom: 10px;
+}
