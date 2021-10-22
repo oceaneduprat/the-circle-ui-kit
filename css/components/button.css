@@ -29,17 +29,5 @@
 	margin-bottom: 10px;
 }
 
-.btn-white2 {
-	background-color: #044723;
-	padding: 15px 20px;
-	border-radius: 4px;
-	color: white;
-	font-weight: bold;
-	font-family: 'Fjalla One', sans-serif;
-}
 
-.btn-white2:hover {
-	background-color:#51776c ;
-	color: black 
-	margin-bottom: 10px;
 }
