@@ -1,0 +1,35 @@
+.greenbox {
+background-color: white;
+display:;
+width: 350px;
+height: 150px;
+border-color: #044723;
+margin-left: 900px;
+margin-top: 0px;
+border-width: 2px;
+border-style: solid;
+text-align: right;
+}
+.greenbox h3,h6 {
+	align-items: center;
+	text-align: center;
+}
+
+.greenbox h1 {
+	background-color:#044723;
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 15px;
+	color: white;
+	font-weight: normal;
+	border-radius: 6px;
+}
+
+.greenbox h5 {
+	background-color:#C5D9C0;
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	border-radius: 6px;
+}
+
+

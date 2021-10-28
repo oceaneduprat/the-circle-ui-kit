@@ -1,0 +1,59 @@
+@import url(https://fonts.googleapis.com/css2?family=Fjalla+One&family=Roboto&display=swap);
+
+@import url(components2/socialnetworks.css);
+@import url(components2/pullnoir.css);
+@import url(components2/basket.css);
+@import url(components2/up.css);
+@import url(components2/greenbox.css);
+@import url(components2/banner.css);
+
+h1{
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: bold;
+}
+h2 {
+  font-family: 'Fjalla One', sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 40px;
+}
+h3 {
+  font-family: 'Fjalla One', sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    margin-left: 40px;
+    color: #044723;
+}
+
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 10px;
+  margin: 0px;
+  color: black;
+}
+
+h5 {
+  font-family: 'Roboto', sans-serif;
+  margin: 0px;
+  color: #044723;
+  font-size: 20px;
+}
+
+h4 {
+  font-family: 'Fjalla One', sans-serif;
+  font-weight: bold;
+  color: #044723;
+  position: right;
+  font-size: 50px;
+}
+
+h6 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 10px;
+  margin: 0px;
+  color: black;
+  font-weight: normal;
+}
+
+

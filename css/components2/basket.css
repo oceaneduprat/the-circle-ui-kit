@@ -1,0 +1,27 @@
+.basket {
+	padding: 20 px;
+	display: flex;
+	align-items: center;
+	border-radius: 6px;
+	width: 450px;
+	height: 370px;
+	margin: 20px 40px;
+}
+
+.basket img {
+		border-radius: 6px;
+		width: 400px;
+		height: 400px;
+		border-color: #C5D9C0;
+		border-width: 2px;
+		border-style: solid;
+}
+.basket h2,h3 {
+}
+.basket h6 {
+	margin-left: 40px;
+	text-align: justify;
+}
+
+
+
