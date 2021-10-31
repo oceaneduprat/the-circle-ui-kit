@@ -1,0 +1,21 @@
+.registercard {
+	background-color: #8AB591;
+	width: 375px;
+	height: 650px;
+	position: center;
+	margin-left: 400px;
+	padding: 20px;
+	margin-top: 50px;
+}
+.registercard h5 {
+	background-color: white;
+	width: 279px;
+	height: 31px;
+	margin-left: 35px;
+	position: center;
+	padding: 10px;
+}
+.registercard h2 {
+	background-color: white;
+	width: 279px;
+}

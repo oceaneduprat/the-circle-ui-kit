@@ -1,0 +1,17 @@
+
+.align {
+	display: flex;
+}
+.align h5{
+	height: 31px;
+	margin-left: 35px;
+	margin-right: 39px;
+	padding: 5px;
+}
+
+.align h2{
+	height: 31px;
+	margin-left: 14px;
+	padding: 5px;
+	margin-right: 39px;
+}
