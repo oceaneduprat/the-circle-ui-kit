@@ -1,0 +1,14 @@
+.homepage-left {
+	padding: 10px;
+
+}
+
+.homepage-left p {
+	margin-left: 320px;
+}
+
+.homepage-left img {
+	height: 200px;
+	vertical-align: middle;
+	float: left;
+}

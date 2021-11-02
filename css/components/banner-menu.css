@@ -1,0 +1,21 @@
+.banner-menu {
+
+	background-color: rgb(4, 71, 35);
+	padding: 10px;
+	display: flex;
+}
+
+.banner-menu img {
+	height: 80px;
+}
+.banner-menu h1 {
+	padding-right: 40px;
+	padding-left: 50px;
+	color: white;
+}
+
+.banner-menu h2 {
+	
+	margin-left: 200px;
+	color:  white;
+}

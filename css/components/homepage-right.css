@@ -1,0 +1,16 @@
+.homepage-right {
+	padding: 10px;
+
+}
+
+.homepage-right p {
+	text-align: justify;
+	margin-right: 250px;
+	margin-top: 50px;
+}
+
+.homepage-right img {
+	height: 300px;
+	vertical-align: middle;
+	float: right;
+}
