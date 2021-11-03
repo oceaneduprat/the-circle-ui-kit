@@ -1,7 +1,11 @@
 @import url(https://fonts.googleapis.com/css2?family=Fjalla+One&family=Roboto&display=swap);
 
+@import url(https://fonts.googleapis.com/css2?family=Fjalla+One&family=Roboto&display=swap);
+
 @import url("components/container.css");
 @import url("components/banner-menu.css");
+@import url("components/search-field.css");
+@import url("components/card-green-homepage.css");
 @import url("components/card-white-welcome.css");
 @import url("components/homepage-left.css");
 @import url("components/homepage-right.css");
