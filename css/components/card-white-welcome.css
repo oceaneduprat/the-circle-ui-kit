@@ -1,0 +1,17 @@
+.card-white-welcome {
+	margin-left: 30px;
+	margin-top: 20px;
+	display: flex;
+}
+
+.card-white-welcome h1 {
+	color: #044723;
+	display: inline-block;
+}
+
+.card-white-welcome img {
+
+	height: 52px;
+	margin-top: 17px;
+}
+}
