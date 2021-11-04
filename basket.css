@@ -1,0 +1,40 @@
+
+.basket {
+	padding: 20 px;
+	display: flex;
+	align-items: center;
+	border-radius: 6px;
+	width: 600px;
+	height: 370px;
+	margin-top: 20px;
+	position: absolute;
+	background: none;
+}
+
+.basket img {
+		border-radius: 6px;
+		width: 350px;
+		height: 200px;
+		border-color: #C5D9C0;
+		border-width: 2px;
+		border-style: solid;
+}
+
+
+.basket h2 {
+font-size: 24px;
+}
+
+.basket h1 {
+margin-right: 500px;
+}
+
+.basket h6 {
+	text-align: justify;
+	margin-left: 40px;
+}
+
+.basket h1,h2,h3,h6 {
+margin-left: 40px;
+margin-top: 0px;
+}
