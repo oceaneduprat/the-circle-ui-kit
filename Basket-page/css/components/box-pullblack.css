@@ -1,0 +1,33 @@
+.box-pullblack {
+	
+	display: flex;
+	align-items: center;
+	border-radius: 6px;
+	width: 260px;
+	height: 85px;
+	margin: 20px 40px;
+	border-color: #C5D9C0;
+		border-width: 2px;
+		border-style: solid;
+}
+
+.box-pullblack  img {		
+		width: 75px;
+		height: 50px;
+		border : none;
+}
+.box-pullblack   h5 {
+
+}
+
+.box-pullblack h6 {
+	padding-bottom: 2px;
+	width: 120px;
+}
+
+.box-pullblack  h3{
+font-size: 20px;
+color: #044723;
+margin-right: 10px;
+}
+
