@@ -1,0 +1,23 @@
+.box-jean {
+	display:flex;
+	align-items:left;
+	justify-content: space-between;
+	padding:20px;
+	width: 750px;
+	position: absolute;
+	margin-top: 250px;
+	
+}
+
+.box-jean img {
+	width: 150px;
+	 border-color: #C5D9C0;
+		border-width: 2px;
+		border-style: solid;
+}
+
+.box-jean  h4{
+color: #044723;
+font-family: 'Fjalla One', sans-serif;
+font-size: 30px; 
+}	

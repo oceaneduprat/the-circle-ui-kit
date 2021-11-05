@@ -1,0 +1,27 @@
+.box-white {
+	padding: 20 px;
+	align-items: center;
+	border-radius: 6px;
+	width: 350px;
+	height: 290px;
+	margin: 20px 40px;
+	border-color: #C5D9C0;
+		border-width: 2px;
+		border-style: solid;
+	margin-bottom: : 800px;
+	margin-left: 900px;
+}
+
+.box-white  img {
+		border-radius: 6px;
+		width: 75px;
+		height: 50px;
+		border-color: #C5D9C0;
+		border-width: 2px;
+		border-style: solid;
+}
+.box-white  h4,h5,h6 {
+	
+}
+
+

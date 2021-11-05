@@ -1,0 +1,17 @@
+.search-field {
+	height: 30px;
+	padding:  10px;
+	border: none;
+	border-radius: 25px;
+	outline: none;
+	width: 400px;
+	display: flex;
+	margin-top: 20px;
+
+}
+
+.search-field i{
+	font-size: 30px;
+	color: white;
+
+}

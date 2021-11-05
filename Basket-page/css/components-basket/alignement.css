@@ -1,0 +1,11 @@
+.alignement {
+	display: flex;
+}
+
+.alignement h4 {
+	height: 31px;
+	margin-left: 30px;
+	margin-right: 39px;
+	padding: 5px;
+	margin-top: 14px;
+}

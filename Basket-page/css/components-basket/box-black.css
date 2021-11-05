@@ -1,0 +1,25 @@
+.box-black {
+	display:flex;
+	align-items:left;
+	justify-content: space-between;
+	padding:20px;
+	width: 750px;
+	position: absolute;
+	
+}
+
+.box-black img {
+	width: 150px;
+    border-color: #C5D9C0;
+		border-width: 2px;
+		border-style: solid;
+
+}
+
+.box-black  h4{
+font-size: 30px;
+color: #044723;
+font-family: 'Fjalla One', sans-serif;
+font-size: 30px; 
+}
+
