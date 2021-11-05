@@ -1,0 +1,17 @@
+.card-little {
+  display: flex;
+	padding: 20px;
+  
+}
+.card-little img {
+  width: 80px;
+  height: 60px;
+}
+
+.cards-little {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: 640px;
+  margin-top: 30px;
+}
+

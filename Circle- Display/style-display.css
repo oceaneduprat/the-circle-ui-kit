@@ -1,0 +1,68 @@
+@import url(https://fonts.googleapis.com/css2?family=Fjalla+One&family=Roboto&display=swap);
+
+@import url("components-display/container.css");
+@import url("components-display/basket.css");
+@import url("components-display/greenbox.css");
+@import url("components-display/cards-little.css");
+@import url("components-display/banner-menu.css");
+@import url("components-display/card-green-homepage.css");
+@import url("components-display/list-inline.css");
+@import url("components-display/search-field.css");
+@import url("components-display/card-green.css");
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 10px;
+  margin: 0px;
+  color: black;
+}
+
+h1{
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 40px;
+}
+h2 {
+  font-family: 'Fjalla One', sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+h3 {
+  font-family: 'Fjalla One', sans-serif;
+    font-weight: bold;
+    font-size: 32px;
+    margin-left: 40px;
+    color: #044723;
+}
+
+
+
+h4 {
+  font-family: 'Fjalla One', sans-serif;
+  font-weight: bold;
+  color: #044723;
+  position: right;
+  font-size: 50px;
+}
+
+h6 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 11px;
+  margin: 0px;
+  color: black;
+  font-weight: normal;
+}
+
+
+.list-inline {
+list-style: none;
+margin-right: 60px;
+
+}
+
+
+.price {
+margin-left: 160px;
+  }
