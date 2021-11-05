@@ -1,0 +1,41 @@
+.card-white {
+	background-color: #C5D9C0;
+	border-color: #044723;
+	padding: 20px;
+	padding-top: -10px;
+	border-radius: 2px;
+	margin: 0px;
+	text-align: left;
+	margin-right: 900px;
+	border-width: 60px;
+}
+
+.card-white img {
+	width: 100%;
+	position: center;
+}
+
+.card-white h1 {
+	font-size: 10;
+	text-align: right;
+}
+
+.card-white h2 {
+	font-size: 8;
+}
+
+.card-white {
+  flex-basis: 250px;
+	flex-grow: 1;
+	margin: 20px;
+}
+
+.cards {
+  display: flex;
+	flex-wrap: wrap;
+	margin-left: 190px;
+	z-index: 1;
+}
+
+
+
