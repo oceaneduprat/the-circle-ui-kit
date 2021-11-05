@@ -1,0 +1,49 @@
+.logincard {
+	background-color: #8AB591;
+	width: 375px;
+	height: 400px;
+	position: center;
+	margin-left: 450px;
+	padding: 20px;
+	margin-top: 30px;
+	position: absolute;
+}
+
+.logincard h1 {
+	width: 120px;
+}
+
+.logincard h5 {
+	background-color: white;
+	width: 279px;
+	height: 31px;
+	margin-left: 35px;
+	position: center;
+	padding: 10px;
+}
+.logincard h2 {
+	background-color: white;
+	width: 279px;
+}
+.bordure {
+	border-bottom: 3px solid black;
+	border-left: 3px solid white;
+	width: 190px;}
+
+@media (max-width: 960px) {
+  /* For a screen < 960px, this CSS will be read */
+  .logincard {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  /* For a screen < 720px, this CSS will be read */
+  .logincard {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  /* For a screen < 540px, this CSS will be read */
+  .logincard {
+    width: 300px;
+  }
