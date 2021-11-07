@@ -14,6 +14,24 @@
 	margin-bottom: 10px;
 }
 
+@media (max-width: 960px) {
+  /* For a screen < 960px, this CSS will be read */
+  .btn-green  {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  /* For a screen < 720px, this CSS will be read */
+  .btn-green  {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  /* For a screen < 540px, this CSS will be read */
+  .btn-green  {
+    width: 300px;
+  }
+
 .btn-white {
 	background-color: #044723;
 	padding: 15px 20px;
@@ -28,6 +46,21 @@
 	color: black 
 	margin-bottom: 10px;
 }
-
-
+	
+@media (max-width: 960px) {
+  /* For a screen < 960px, this CSS will be read */
+  .btn-white  {
+    width: 700px;
+  }
 }
+@media (max-width: 720px) {
+  /* For a screen < 720px, this CSS will be read */
+  .btn-white  {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  /* For a screen < 540px, this CSS will be read */
+  .btn-white  {
+    width: 300px;
+  }
