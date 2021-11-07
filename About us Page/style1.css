@@ -1,0 +1,43 @@
+@import url(https://fonts.googleapis.com/css2?family=Fjalla+One&family=Roboto&display=swap);
+
+
+@import url(components1/card-green-us.css);
+@import url(components1/button1.css);
+@import url(components1/container1.css);
+@import url(components1/socialnetworks.css);
+@import url(components1/banner-menu.css);
+@import url(components1/list-inline.css);
+@import url(components1/search-field.css);
+@import url(components1/card-green-homepage.css);
+
+
+
+h1{
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: bold;
+}
+h2 {
+	font-family: 'Fjalla One', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+h4 {
+	font-family: 'Roboto', sans-serif;
+	margin: 0px;
+	color: #044723;
+	font-size: 20px;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+	color: black;
+}
+
+
+a { 
+	text-decoration: none;
+	color: white;
+}
+

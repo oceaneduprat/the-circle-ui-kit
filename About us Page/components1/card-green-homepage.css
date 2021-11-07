@@ -1,0 +1,17 @@
+.card-green-homepage {
+    background-color: #044723;
+    display: flex;
+    position: absolute;
+    margin-left: 1220px;
+    text-align: right;
+    
+}
+
+
+
+.card-green-homepage h2 {
+    color: white;
+    margin:  10px;
+    margin-left: 10px;
+
+}
